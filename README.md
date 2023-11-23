@@ -12,6 +12,8 @@ Repositório para armazer resumos de Git e GitHub do curso de Versionamento de C
 | Aulas |  Links  |
 | ----- | --------- |
 | Salvando alterações no repositório local | [Resumos](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/santander-bootcamp-2023-ciencia-de-dados-com-python&tab=undefined&moduleId=undefined) |
+| Aula 01 | Link da aula 01 |
+| Aula 02 | Link da aula 02 |
 
 ```
 git init
